@@ -12,6 +12,7 @@ $packages =
 #"whatsapp",
 #"slack",
 # Development
+#"-m dotnetcore-sdk
 #"vscode",
 #"git",
 #
