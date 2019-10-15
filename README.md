@@ -10,7 +10,7 @@ A PS install script using Chocolatey for a fresh-pc install
 * If you are installing a development framework that can have multiple versions installed such as .netcore-sdk, set the -m flag on
 
 
-'''
+``` Powershell
 . .\main.ps1
 Install
-'''
+```
